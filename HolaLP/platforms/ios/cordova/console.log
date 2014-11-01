@@ -1,0 +1,62 @@
+2014-10-24 13:57:34.482 HolaLP[32865:916368] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/5869492B-6FB8-4835-AEF7-1A08E9D3D64B/data/Containers/Data/Application/B27F2F10-1597-499E-868A-39BDB00F4F64/Library/Cookies/Cookies.binarycookies
+2014-10-24 13:57:34.668 HolaLP[32865:916368] Multi-tasking -> Device: YES, App: YES
+2014-10-24 13:57:34.697 HolaLP[32865:916368] Unlimited access to network resources
+2014-10-24 13:57:34.704 HolaLP[32865:916368] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-24 13:57:35.503 HolaLP[32865:916368] Resetting plugins due to page load.
+2014-10-24 13:57:35.611 HolaLP[32865:916368] Finished load of: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/5869492B-6FB8-4835-AEF7-1A08E9D3D64B/data/Containers/Bundle/Application/58132345-19F1-4489-93F7-6420A4D09E05/HolaLP.app/www/index.html
+2014-10-27 15:38:28.554 HolaLP[15780:1368649] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Data/Application/C01D2F53-BDC4-43BA-A4BC-75C668A4FF43/Library/Cookies/Cookies.binarycookies
+2014-10-27 15:38:28.730 HolaLP[15780:1368649] Multi-tasking -> Device: YES, App: YES
+2014-10-27 15:38:28.765 HolaLP[15780:1368649] Unlimited access to network resources
+2014-10-27 15:38:28.772 HolaLP[15780:1368649] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-27 15:38:30.086 HolaLP[15780:1368649] Resetting plugins due to page load.
+2014-10-27 15:38:30.257 HolaLP[15780:1368649] Finished load of: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Bundle/Application/BD756FFB-9FBE-4947-8FD2-D3026DECDBC0/HolaLP.app/www/index.html
+2014-10-27 16:16:40.850 HolaLP[15780:1400449] Terminating since there is no system app.
+2014-10-30 06:55:57.520 HolaLP[23203:321375] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Data/Application/BCE801D3-133F-4176-9676-36ABC1A35CDD/Library/Cookies/Cookies.binarycookies
+2014-10-30 06:55:57.640 HolaLP[23203:321375] Multi-tasking -> Device: YES, App: YES
+2014-10-30 06:55:57.659 HolaLP[23203:321375] Unlimited access to network resources
+2014-10-30 06:55:57.666 HolaLP[23203:321375] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-30 06:55:58.275 HolaLP[23203:321375] Resetting plugins due to page load.
+2014-10-30 06:55:58.385 HolaLP[23203:321375] Finished load of: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Bundle/Application/1D4499AD-E5E2-48F6-971A-43782C8046ED/HolaLP.app/www/index.html
+2014-10-30 06:55:58.452 HolaLP[23203:321375] THREAD WARNING: ['Device'] took '15.688965' ms. Plugin should use a background thread.
+2014-10-31 06:14:38.152 HolaLP[39350:589700] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Data/Application/45D95F6F-AF03-49B0-AC97-F8F7450B7742/Library/Cookies/Cookies.binarycookies
+2014-10-31 06:14:38.253 HolaLP[39350:589700] Multi-tasking -> Device: YES, App: YES
+2014-10-31 06:14:38.275 HolaLP[39350:589700] Unlimited access to network resources
+2014-10-31 06:14:38.280 HolaLP[39350:589700] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-31 06:14:38.955 HolaLP[39350:589700] Resetting plugins due to page load.
+2014-10-31 06:14:39.078 HolaLP[39350:589700] Finished load of: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Bundle/Application/E1E46EBA-4D2B-49C0-9388-8DD291357F94/HolaLP.app/www/index.html
+2014-10-31 15:26:41.061 HolaLP[8990:140627] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Data/Application/F3881141-28C8-4B61-B147-640E2E9DF257/Library/Cookies/Cookies.binarycookies
+2014-10-31 15:26:41.156 HolaLP[8990:140627] Multi-tasking -> Device: YES, App: YES
+2014-10-31 15:26:41.162 HolaLP[8990:140627] Unlimited access to network resources
+2014-10-31 15:26:41.165 HolaLP[8990:140627] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-31 15:26:41.428 HolaLP[8990:140627] Resetting plugins due to page load.
+2014-10-31 15:26:41.493 HolaLP[8990:140627] Finished load of: file:///Users/mfierro/Library/Developer/CoreSimulator/Devices/C28323FA-15DA-4356-A350-8D1E72F0D960/data/Containers/Bundle/Application/F17B5214-8F0D-4549-A7E2-2186D016EF5A/HolaLP.app/www/index.html
